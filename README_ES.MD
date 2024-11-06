@@ -1,5 +1,5 @@
 
-# Petición Asíncrona de API - AJAX - Querystring 
+# Petición Asíncrona a API - AJAX - Querystring 
 Cómo crear un servicio con PHP y realizar una solicitud AJAX con querystring desde JS para obtener datos de un servicio PHP.
 
 `[SimPIL son una serie de ejemplos ultra-sencillos sobre cómo realizar diferentes operaciones con código. Sin complicaciones.]`
@@ -21,6 +21,6 @@ Al hacer clic en el botón `call`, se realizará una solicitud al servicio PHP y
 ![](img/logo.svg)
 
 ---
-`título:` Asynchronous API Request - AJAX - Querystring [`SimPIL`] 01/09/24\
+`título:` Petición Asíncrona a API - AJAX - Querystring  [`SimPIL`] 01/09/24\
 `autor:` David G. Bonacho &nbsp;&nbsp;  [www.tizedit.com](https://www.tizedit.com)
 
