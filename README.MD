@@ -18,6 +18,8 @@ By clicking on the `call` button, a fetch for the PHP service will be carried ou
 - css/style.css: an ultra-simple css stylesheet
 - img/logo.svg: only important images are here
 
+[Text in Spanish here](README_ES.MD)
+
 ![](img/logo.svg)
 ---
 `título:` Asynchronous API Request - AJAX - Querystring [`SimPIL`] 01/09/24\
